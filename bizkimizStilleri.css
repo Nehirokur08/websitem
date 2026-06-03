@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+#BizKimizGenel{
+	width:880px;
+	height:auto;
+	padding:40px 40px 40px 40px;
+	}
+
+#BizKimizGenel h1{
+	text-align:center;
+	}
+	
+#BizKimizGenel p{
+	text-align:justify;
+	text-indent:30px;
+	}
+#BizKimizGenel img{
+	width:120px;
+	height:150px;
+	border-radius:10px;
+	margin-left:50px;
+	}
+#BizKimizGenel img:hover{
+	width:240px;
+	height:300px;
+	}

@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+#IletisimGenel{
+	width:960px;
+	height:auto;
+	margin:0 auto;
+	}
+#IletisimSol{
+	width:480px;
+	height:auto;
+	float:left;
+	}
+#IletisimSag{
+	width:480px;
+	height:auto;
+	float:left;
+	}
